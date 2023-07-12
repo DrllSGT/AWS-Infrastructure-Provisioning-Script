@@ -1,4 +1,5 @@
-# ![My Skills](https://skillicons.dev/icons?i=aws) AWS-Infrastructure-Provisioning-Script
+# ![My Skills](https://skillicons.dev/icons?i=aws) 
+# AWS-Infrastructure-Provisioning-Script
 
 Description: 
 Built a script that automates the provisioning and configuration management of a virtual infrastructure in AWS. 
