@@ -2,7 +2,7 @@
 # AWS-Infrastructure-Provisioning-Script
 
 **Description:** <br>
-Built a script that automates the provisioning and configuration management of a virtual infrastructure in AWS. 
+Created a script that automates the provisioning and configuration management of a virtual infrastructure in AWS. 
 Used an AWS API, and Python to create and configure virtual machines, networking components, security groups, and other resources. 
 Utilized Python library Boto3 for AWS.
 
