@@ -1,4 +1,4 @@
-# ![My Skills](https://skillicons.dev/icons?i=aws,python) 
+# ![My Skills](https://skillicons.dev/icons?i=aws,python,git,github) 
 # AWS-Infrastructure-Provisioning-Script
 
 **Description:** <br>
